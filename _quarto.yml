@@ -1,0 +1,11 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Brent Spence Bridge: Home Price Impact Analysis"
+
+format:
+  html:
+    theme: flatly
+    toc: true

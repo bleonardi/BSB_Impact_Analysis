@@ -9,6 +9,7 @@
 .Rproj.user/
 !README.md
 !docs/
+!docs/**
 !.nojekyll
 *.dat
 *.shp
@@ -23,3 +24,6 @@ shp/
 __pycache__/
 *.pyc
 index_files/
+
+/.quarto/
+**/*.quarto_ipynb
