@@ -1,6 +1,6 @@
 ---
 title: "Event Study: Brent Spence Bridge Corridor Impact"
-author: "Gemini CLI"
+author: "Benedict Leonardi"
 format: html
 ---
 
